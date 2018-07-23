@@ -21,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -227,12 +228,12 @@
       <option name="presentableId" value="Default" />
       <updated>1532193563294</updated>
       <workItem from="1532193568339" duration="2219000" />
-      <workItem from="1532330266022" duration="1766000" />
+      <workItem from="1532330266022" duration="2363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3985000" />
+    <option name="totallyTimeSpent" value="4582000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -247,9 +248,9 @@
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32997763" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.39757413" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27293065" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27323627" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
